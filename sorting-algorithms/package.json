@@ -1,0 +1,16 @@
+{
+  "name": "all-sorting-algorithm",
+  "version": "1.0.0",
+  "description": "A package for various sorting algorithms",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sorting-algorithms-package.git"
+  },
+  "keywords": ["sorting", "algorithms", "bubble sort", "quick sort", "merge sort", "shell sort", "counting sort", "radix sort", "insertion sort", "selection sort"],
+  "author": "Nitin Semwal",
+  "license": "ISC"
+}
